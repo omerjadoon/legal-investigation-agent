@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/lumina.png" alt="Lumina Logo" width="320">
+</p>
+
 # Lumina - A Legal Due Diligence AI Agent
 
 Autonomous due diligence agent for M&A legal review. Given a natural language goal and a corpus of legal documents, the agent plans an investigation, reads documents, records findings and conflicts, and produces a structured report.
